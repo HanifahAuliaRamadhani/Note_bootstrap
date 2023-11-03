@@ -1,0 +1,52 @@
+/* .main {
+  max-width: 960px;
+  margin: 0px auto;
+  padding: 0px 15px;
+  min-height: 100vh;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+  font-size: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white;
+  }
+  
+
+  li {
+    float: left;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
+  .note__button {
+    background: transparent;
+    transition: 0.1s ease-in-out;
+    border: 1.5px solid;
+    border-radius: 10px;
+    color: snow;
+    padding: 4px 10px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.note__button:hover {
+    transform: scale(1.1);
+    background:white;
+    border: 1.5px solid ;
+    color: snow;
+}
+ */
